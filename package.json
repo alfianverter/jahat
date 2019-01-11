@@ -1,0 +1,28 @@
+{
+  "name": "discord.fm-client-tools",
+  "version": "2.0.0",
+  "description": "Client tools for Discord.FM",
+  "main": "app.js",
+  "dependencies": {
+    "ws": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiscordFM/discord.fm-client-tools.git"
+  },
+  "keywords": [
+    "Discord.FM",
+    "DiscordFM",
+    "Discord"
+  ],
+  "author": "Dean Sheather <dean@deansheather.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DiscordFM/discord.fm-client-tools/issues"
+  },
+  "homepage": "https://github.com/DiscordFM/discord.fm-client-tools#readme"
+}
